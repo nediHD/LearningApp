@@ -31,6 +31,6 @@ python run.py
 
 ## Example Video
 
-[Watch the video]([https://www.youtube.com/watch?v=your_video_id](https://www.youtube.com/watch?v=OxfUxcQZy28))
+[Watch the video](https://www.youtube.com/watch?v=OxfUxcQZy28)
 
 
