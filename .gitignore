@@ -1,0 +1,6 @@
+__pycache__/
+diagram/
+appLaunch.bat
+google.json
+keys.json
+run1.py
